@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 53,
-    "timeWeek": 53,
-    "timeMonth": 53,
-    "timeYear": 53,
+    "time": 80,
+    "timeDay": 80,
+    "timeWeek": 80,
+    "timeMonth": 80,
+    "timeYear": 80,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 40,
-    "timeDay": 40,
-    "timeWeek": 40,
-    "timeMonth": 40,
-    "timeYear": 40,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 286,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 226,
+    "timeDay": 226,
+    "timeWeek": 226,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tawjihi.jo.ico",
     "slug": "tawjihi-jo",
     "status": "down",
-    "uptime": "71.00%",
-    "uptimeDay": "71.00%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "71.00%",
-    "uptimeYear": "71.00%",
+    "uptime": "1.86%",
+    "uptimeDay": "1.86%",
+    "uptimeWeek": "1.86%",
+    "uptimeMonth": "1.86%",
+    "uptimeYear": "1.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-10": 0
+      "2026-08-10": 19
     }
   }
 ]
